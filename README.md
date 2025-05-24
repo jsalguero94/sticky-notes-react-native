@@ -29,6 +29,12 @@ You can start developing by editing the files inside the **app** directory. This
 
 https://sticky-notes-react-native.netlify.app
 
+### Scan the following QR code to preview 
+* You need to install the Expo [iOS](https://apps.apple.com/us/app/expo-go/id982107779) or [Android](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en) app previously
+
+![image](https://github.com/user-attachments/assets/fbdc26b9-5381-43e9-9cf9-164798abe95f)
+
+
 ## Learn more
 
 To learn more about developing your project with Expo, look at the following resources:
