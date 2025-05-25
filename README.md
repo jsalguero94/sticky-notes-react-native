@@ -32,7 +32,8 @@ https://sticky-notes-react-native.netlify.app
 ### Scan the following QR code to preview 
 * You need to install the Expo [iOS](https://apps.apple.com/us/app/expo-go/id982107779) or [Android](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en) app previously
 
-![image](https://github.com/user-attachments/assets/fbdc26b9-5381-43e9-9cf9-164798abe95f)
+![image](https://github.com/user-attachments/assets/2ebf3f6a-f193-47ff-9618-0c54ab7886c8)
+
 
 
 ## Learn more
